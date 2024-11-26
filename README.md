@@ -1,4 +1,4 @@
-# **RSolución al Ejercicio de Análisis de Logs**
+# **Solución al Ejercicio de Análisis de Logs**
 
 ## **Descripción del problema**
 El objetivo es desarrollar un script en Python que lea un archivo de logs llamado `access.log` y extraiga la siguiente información:
